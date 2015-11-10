@@ -1,5 +1,4 @@
 do{
- 
    var usuarioElige = prompt("piedra, papel o tijera?");
     var computadoraElige = Math.random();
     if (computadoraElige <0,34){
